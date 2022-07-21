@@ -1,0 +1,35 @@
+h1{
+    color: aqua;
+    font-style: italic;
+}
+h2{
+    color: blue;
+}
+main{
+    background-color: darkolivegreen;
+    padding: 2em;
+  
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.shee{
+    color: chartreuse;
+    font-size: large;
+   
+}
+
+
+body{
+  ;
+}
+body*{
+    margin: 0;
+    width: 50px;
+}
+table{
+    background-color: aqua;
+    height: auto;
+    width: 50%;
+}
